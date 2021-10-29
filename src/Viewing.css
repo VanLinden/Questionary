@@ -1,0 +1,9 @@
+.inputName {
+    display: inline-block;
+    width: 80px;
+    margin-left: 5px;
+    color: crimson;
+}
+.name {
+    margin-left: 15px;
+}

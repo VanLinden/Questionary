@@ -1,0 +1,40 @@
+.mat-card-questinary {
+    width:350px;
+    height: 370px;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    background: #f5f255;
+    border: 2px darkblue solid;
+    border-radius: 5px;
+    margin-top: 150px;
+  }
+  .title {
+      text-align: center;
+      font-weight: bold;
+      padding: 5px 0 5px 0;
+  }
+  .error {
+      color: red;
+  }
+  .name {
+    display: inline-block;
+}
+.add-button {
+    float: right;
+    margin-right: 20px;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: -15px;
+}
+  .childName {
+      display: inline-block;
+      width: 120px;
+  }
+  .ok-button {
+      display: block;
+      margin-top: 10px;
+      margin-left: auto;
+      margin-right: auto;
+  }
